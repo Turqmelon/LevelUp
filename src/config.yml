@@ -1,0 +1,11 @@
+# Configure your levelup ranks here
+promotions:
+    member:
+        nextrank: vip
+        price: 1000
+    vip:
+        nextrank: pro
+        price: 10000
+    pro:
+        nextrank: superpro
+        price: 100000

@@ -1,0 +1,11 @@
+name: LevelUp
+author: Turqmelon
+website: turqmelon.com
+version: 1.0
+main: com.turqmelon.LevelUp.LevelUp
+description: Allows ranking up for ingame currency
+depend: [Vault]
+commands:
+    levelup:
+        description: Moves up to the next rank
+        usage: /levelup
